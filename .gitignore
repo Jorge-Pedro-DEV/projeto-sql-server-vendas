@@ -1,0 +1,17 @@
+# VS Code
+.vscode/
+
+# Arquivos temporarios
+*.tmp
+
+# Logs
+*.log
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Python (caso use futuramente)
+.venv/
+__pycache__/
+*.pyc
